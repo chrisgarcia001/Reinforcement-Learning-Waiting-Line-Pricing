@@ -11,7 +11,7 @@ The core source code is found in the following files:
 - **rule_based_agent.py:** This file contains the human-engineered policy implementations used for comparison in the experiments.
 - **environments.py:** This file contains the environment configurations for the three test scenarios (Theme Park, DMV, and Restaurant) used in the research paper.
 - **util.py:** This file contains utility components used in training, performance evaluation, and analysis.
-- **build_hyperparameter_study_plots.py**: This script allows the plots of an existing Optuna study to be drawn (without having to re-run the study script).
+- **build_hyperparameter_study_plots.py**: This script allows the plots of an existing Optuna study to be drawn without having to re-run the study script.
 
 2. Model Tuning and Training
 
