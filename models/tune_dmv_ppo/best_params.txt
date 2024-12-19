@@ -1,0 +1,12 @@
+[I 2023-01-26 01:36:43,138] Trial 99 finished with value: 3202.49 and parameters: {'learning_rate': 0.016777042290752567, 'gamma': 0.9496429283968784, 'ent_coef': 0.00024839823558121696, 'n_epochs': 9, 'n_steps': 1314, 'max_reserve_capacity_fraction': 0.45000000000000007, 'max_price': 16.0}. Best is trial 91 with value: 3670.8.
+Number of finished trials:  100
+Best trial: 91
+Value:  3670.8
+Params:
+    learning_rate: 0.05500934020666769
+    gamma: 0.8757263113452977
+    ent_coef: 0.0005786611857921733
+    n_epochs: 18
+    n_steps: 1445
+    max_reserve_capacity_fraction: 0.5
+    max_price: 11.5

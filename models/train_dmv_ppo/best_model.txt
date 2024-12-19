@@ -1,0 +1,5 @@
+[I 2023-01-26 05:14:01,476] Trial 4 finished with value: 3233.2019999999998 and parameters: {}. Best is trial 2 with value: 3827.1759999999995.
+Number of finished trials:  5
+Best trial: 2
+Value:  3827.1759999999995
+Params:

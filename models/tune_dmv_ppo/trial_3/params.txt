@@ -1,0 +1,1 @@
+{'rl_params': {'learning_rate': 0.04847630375475857, 'gamma': 0.9153889854916556, 'ent_coef': 8.254063880946803e-05, 'n_epochs': 6, 'n_steps': 179}, 'cb_params': {'max_reserve_capacity_fraction': 0.1, 'max_price': 34.0}}
