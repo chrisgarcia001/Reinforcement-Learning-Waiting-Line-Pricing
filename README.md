@@ -1,7 +1,7 @@
 # Reinforcement-Learning-Waiting-Line-Pricing
 Research Code for RL-Based Dynamic Pricing and Capacity Allocation in Monetized Wait-Skipping Services
 
-This repository contains the core source code, experiments, and results from my research paper entitled [Reinforcement learning for dynamic pricing and capacity allocation in monetized customer wait-skipping services](https://doi.org/10.1080/2573234X.2024.2424542). The code is written in Python 3. In order to run any code or excute the experiments, make sure to first pip install the packages listed in "requirements.txt". This repository is organized as follows:
+This repository contains the core source code, experiments, and results from my research paper entitled "Reinforcement learning for dynamic pricing and capacity allocation in monetized customer wait-skipping services". The code is written in Python 3. In order to run any code or excute the experiments, make sure to first pip install the packages listed in "requirements.txt". This repository is organized as follows:
 
 1. Core Source Code
 
@@ -30,4 +30,4 @@ The experimental results generated for each experiment can be found under the *r
 
 If you wish to cite this work, please use the following reference:
 
-Garcia, C. (2028), "Reinforcement learning for dynamic pricing and capacity allocation in monetized customer wait-skipping services", [*Journal of Business Analytics*, Vol. 8, No. 1, pp. 36-54.](https://doi.org/10.1080/2573234X.2024.2424542).
+Garcia, C. (2028), ["Reinforcement learning for dynamic pricing and capacity allocation in monetized customer wait-skipping services"](https://doi.org/10.1080/2573234X.2024.2424542), *Journal of Business Analytics*, Vol. 8, No. 1, pp. 36-54.
