@@ -30,4 +30,4 @@ The experimental results generated for each experiment can be found under the *r
 
 If you wish to cite this work, please use the following reference:
 
-Garcia, C. (2025), ["Reinforcement learning for dynamic pricing and capacity allocation in monetized customer wait-skipping services"](https://doi.org/10.1080/2573234X.2024.2424542), *Journal of Business Analytics*, Vol. 8, No. 1, pp. 36-54.
+Garcia, C. (2025), ["Reinforcement learning for dynamic pricing and capacity allocation in monetized customer wait-skipping services"](https://doi.org/10.1080/2573234X.2024.2424542), *Journal of Business Analytics*, Vol. 8, No. 1, pp. 36-54
