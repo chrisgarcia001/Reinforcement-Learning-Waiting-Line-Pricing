@@ -20,7 +20,7 @@ a correspondingly-named Stable Baselines 3 PPO model is trained and placed withi
 
 3.  Computational Experiments
 
-The code for running each of the three simulation experiments can be found in the *experiments* folder. Note that the models must be trained before this code can be executed
+The code for running each of the three simulation experiments can be found in the *experiments* folder. Note that the models must be trained before this code can be executed.
 
 4.  Results
 
